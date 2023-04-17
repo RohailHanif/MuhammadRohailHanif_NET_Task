@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\bin\Debug\net5.0\SchoolApplication.Services.deps.json
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\bin\Debug\net5.0\SchoolApplication.Services.dll
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\bin\Debug\net5.0\SchoolApplication.Services.pdb
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\bin\Debug\net5.0\SchoolApplication.Domain.dll
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\bin\Debug\net5.0\SchoolApplication.Domain.pdb
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\SchoolApplication.Services.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\SchoolApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\SchoolApplication.Services.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\SchoolApplication.Services.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\SchoolApplication.Services.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\SchoolApplication.Services.csproj.CopyComplete
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\SchoolApplication.Services.dll
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\refint\SchoolApplication.Services.dll
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\SchoolApplication.Services.pdb
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.Services\obj\Debug\net5.0\ref\SchoolApplication.Services.dll

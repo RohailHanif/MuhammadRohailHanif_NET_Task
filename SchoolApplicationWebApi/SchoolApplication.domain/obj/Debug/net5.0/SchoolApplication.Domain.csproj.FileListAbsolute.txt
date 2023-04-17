@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\bin\Debug\net5.0\SchoolApplication.Domain.deps.json
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\bin\Debug\net5.0\SchoolApplication.Domain.dll
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\bin\Debug\net5.0\SchoolApplication.Domain.pdb
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\SchoolApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\SchoolApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\SchoolApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\SchoolApplication.Domain.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\SchoolApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\SchoolApplication.Domain.dll
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\refint\SchoolApplication.Domain.dll
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\SchoolApplication.Domain.pdb
+C:\Users\lenovo\source\repos\SchoolApplicationWebApi\SchoolApplication.domain\obj\Debug\net5.0\ref\SchoolApplication.Domain.dll

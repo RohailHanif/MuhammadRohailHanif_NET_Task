@@ -1,0 +1,5 @@
+C:\Users\lenovo\source\WebformApplication\WebformApplication.Common\bin\Debug\WebformApplication.Common.dll
+C:\Users\lenovo\source\WebformApplication\WebformApplication.Common\bin\Debug\WebformApplication.Common.pdb
+C:\Users\lenovo\source\WebformApplication\WebformApplication.Common\obj\Debug\WebformApplication.Common.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\WebformApplication\WebformApplication.Common\obj\Debug\WebformApplication.Common.dll
+C:\Users\lenovo\source\WebformApplication\WebformApplication.Common\obj\Debug\WebformApplication.Common.pdb

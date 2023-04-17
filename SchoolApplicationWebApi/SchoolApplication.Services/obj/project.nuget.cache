@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wVHyLz+9L6A037YEAsaJGwo3jGlpTOu437F7JRIWm6b+sMSbgkE5eyc15omf/UcW0XFIQ7TOtOIKUte/szpSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\SchoolApplicationWebApi\\SchoolApplication.Services\\SchoolApplication.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
